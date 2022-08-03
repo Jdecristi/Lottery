@@ -1,0 +1,8 @@
+{
+   "tabWidth": 2,
+   "fromatOnSave": true,
+   "singleQuote": false,
+   "printWidth": 180,
+   "formatOnPaste": true,
+   "semi": true
+}
