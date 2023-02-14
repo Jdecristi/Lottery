@@ -1,7 +1,8 @@
 # Lottery
 
-This is a open and decentralized lottery built with smart contracts, hardhat on the backend, and nextjs on the front end. The actual site is hosted at [this site](https://ipfs.io/ipfs/QmUYyXaux24GCfCPx2veW498PLh689vyrS9KJS97RVdCqQ) as a static site using ipfs.
+I built the Crypto Lottery to get my feet wet with blockchain development. This app comes with self-written, Mocha-tested smart contracts deployed to Rinkeby and Mumbai test networks. I used Hardhat.js to manage the backend and React.js on the front-end with Moralis to interact with the blockchains.
 
-## Getting Started
-
-Simply clone this repository to see all code.
+![Lottery image-1](https://jdecristi.com/images/main/sections/projects/lottery/modal-images/desktop/image-1.png)
+![Lottery image-2](https://jdecristi.com/images/main/sections/projects/lottery/modal-images/desktop/image-2.png)
+![Lottery image-3](https://jdecristi.com/images/main/sections/projects/lottery/modal-images/desktop/image-3.png)
+![Lottery image-4](https://jdecristi.com/images/main/sections/projects/lottery/modal-images/desktop/image-4.png)
